@@ -1,0 +1,12 @@
+{
+  "name": "vue-admin-template",
+  "uuid": "0d8aeb18-7ace-46f1-952d-7766d0cb4e08",
+  "debug": {
+    "resource": "public",
+    "entry": " http://localhost:9528/charge/"
+  },
+
+  "build": {
+    "resource": "dist"
+  }
+}
